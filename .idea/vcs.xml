@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/apiGateway" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/serviceAuth" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/serviceCommande" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/serviceDiscovery" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/serviceProduit" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tp_ms_front" vcs="Git" />
+  </component>
+</project>
